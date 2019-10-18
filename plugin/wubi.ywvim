@@ -6,7 +6,8 @@ MaxElement=0
 UsedCodes=abcdefghijklmnopqrstuvwxyz
 WildChar=*
 NumRules=0
-PyChar=;
+PyChar=z
+EnChar=;
 
 [CharDefinition]
 
